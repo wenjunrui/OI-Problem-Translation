@@ -49,3 +49,10 @@ Case 2: 4 1
 ```
 #### 数据范围
 对于 $100\%$ 的数据，保证 $1\le N\le 5\times 10^4$。
+#### 提交网址
+- http://acm.hdu.edu.cn/showproblem.php?pid=3844
+- https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3549
+- https://www.spoj.com/problems/BUSINESS/en/
+- https://codeforces.com/gym/101175/
+- https://www.e-olymp.com/en/problems/2288
+- https://vjudge.net/problem/UVALive-5135/origin
