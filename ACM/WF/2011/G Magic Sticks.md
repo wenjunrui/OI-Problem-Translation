@@ -32,3 +32,8 @@ Case 2: 19.311
 ```
 #### 数据范围
 对于 $100\%$ 的数据，保证 $1\le n\le 500$，$1\le S_i\le 10^3$。
+#### 提交网址
+- https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3548
+- http://acm.hdu.edu.cn/showproblem.php?pid=3843
+- https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3135
+- https://codeforces.com/gym/101175
